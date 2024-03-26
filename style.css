@@ -1,6 +1,6 @@
-:root { 
---cor-de-fundo: #EB; 
+body{
+    background-color: rgb(175, 221, 202) ;
 }
- body 
- { background-color: var(--cor-de-fundo);
- }
+header{
+    background-color: rgb(200, 236, 232);
+}
